@@ -1,0 +1,69 @@
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_11_32_98 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_11_50_541 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_0_284 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_14_795 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_14_795.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_36_10 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_36_10.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_39_411.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_41_757.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_12_44_536.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_14_24_0 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_12_555 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_16_988 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_19_477 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_21_968 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_44_336.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_48_64.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_50_492.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_53_135.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_15_55_436.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_16_41_69 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_17_24_611 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_18_2_533 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_19_19_763 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_19_52_941.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_20_12_245.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_20_50_103 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_20_50_103.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_20_53_435 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_20_53_435.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_16_529 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_19_7 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_19_7.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_29_922 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_29_922.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_32_763 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_35_245 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_35_245.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_3_59 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_3_59.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_56_137 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_6_700 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_21_6_700.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_0_58 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_19_73 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_19_73.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_22_73 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_22_73.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_33_325 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_33_325.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_38_945.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_4_593 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_22_54_309 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_23_20_949.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_23_27_799 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_23_27_799.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_23_47_45.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_18_701 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_18_701.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_25_932 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_25_932.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_4_285 - r.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_24_51_552.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_8_13_283.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_8_16_636.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_8_20_713.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_8_3_113.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_9_32_290.txt
+./tmp/lnm_labels_defect_20200708/2020_6_30_11_9_55_236.txt

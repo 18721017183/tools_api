@@ -1,0 +1,18 @@
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\1_1_2020_5_13_13_14_17_982.jpg	89,33,94,170,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\1_1_2020_5_13_13_14_48_725.jpg	95,26,100,163,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\1_1_2020_5_13_13_26_14_172.jpg	30,26,36,159,0	53,26,59,161,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\1_1_2020_5_13_13_26_9_500.jpg	54,25,60,158,0	75,25,83,160,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_17_15_208.jpg	123,71,131,139,0	97,85,106,142,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_17_21_695.jpg	92,103,100,160,0	119,85,126,153,0	66,110,73,154,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_17_29_338.jpg	116,44,123,149,0	90,56,98,154,0	66,88,74,151,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_17_39_696.jpg	109,57,118,157,0	85,88,94,158,0	61,110,68,159,0	91,53,98,88,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_17_57_938.jpg	115,74,121,146,0	88,110,95,149,0	93,69,99,108,0	65,103,71,145,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_18_3_384.jpg	108,99,114,149,0	111,47,116,97,0	84,106,93,154,0	87,61,94,102,0	62,79,69,151,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_1_2020_5_13_13_25_59_732.jpg	75,40,82,99,0	76,102,83,171,0	55,43,64,110,0	56,113,63,169,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_17_15_208.jpg	16,98,24,134,0	21,45,26,95,0	79,68,84,108,0	64,122,68,137,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_17_21_695.jpg	26,104,34,139,0	31,43,37,101,0	88,71,94,112,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_17_29_338.jpg	87,64,94,132,0	23,116,30,152,0	27,52,34,112,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_17_39_696.jpg	88,78,95,143,0	24,120,33,167,0	27,67,36,116,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_17_57_938.jpg	33,48,41,114,0	28,118,35,146,0	91,72,99,122,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_18_3_384.jpg	97,69,103,119,0	33,102,40,141,0	36,49,44,98,0
+C:\Users\pc\Desktop\tmp\make_data\packing_bag\yz_picture_cut_1\2_2_2020_5_13_13_25_59_732.jpg	117,46,124,80,0	92,54,97,76,0
